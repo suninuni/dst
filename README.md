@@ -2,17 +2,22 @@
 
 ## 依赖
 
+```
 apt update
 apt -y install lib32gcc1 libcurl4-gnutls-dev:i386
+apt -y install lib32stdc++6
+```
 
 ## 安装 steam
 
+```
 mkdir ~/steamcmd && cd ~/steamcmd
 
 wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
 tar -xvzf steamcmd_linux.tar.gz
 ln -s /usr/games/steamcmd ~/steamcmd
 ./steamcmd.sh
+```
 
 ## 安装 dst
 
@@ -25,5 +30,7 @@ quit
 
 ## 运行
 
+```
 ./dontstarve_dedicated_server_nullrenderer -console -cluster MyClusterName -shard Master
 ./dontstarve_dedicated_server_nullrenderer -console -cluster MyClusterName -shard Caves
+```
