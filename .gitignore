@@ -1,0 +1,16 @@
+master.log
+Steam
+dstserver
+steam
+
+.bash_history
+.bashrc
+.viminfo
+.cache/
+.config/
+.pip/
+.profile
+.pydistutils.cfg
+.ssh/
+.viminfo
+.steam
