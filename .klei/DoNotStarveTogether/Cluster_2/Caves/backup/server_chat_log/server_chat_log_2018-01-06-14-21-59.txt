@@ -1,0 +1,9 @@
+[00:02:06]: [Join Announcement] EternaLEnVy
+[00:07:06]: [Join Announcement] Lodrian
+[00:21:40]: [Say] (KU_DfIX651p) Lodrian: emm zheyou
+[00:21:48]: [Say] (KU_DfIX651p) Lodrian: da xiang
+[00:22:53]: [Say] (KU_DfIX651p) Lodrian: zhe
+[00:27:03]: [Skin Announcement] EternaLEnVy mysterybox_classic_4
+[00:53:10]: [Skin Announcement] Lodrian mysterybox_classic_4
+[01:25:05]: [Leave Announcement] EternaLEnVy
+[01:25:25]: [Leave Announcement] Lodrian
