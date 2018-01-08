@@ -1,2 +1,135 @@
-[00:02:40]: [Join Announcement] EternaLEnVy
-[00:03:48]: [Leave Announcement] EternaLEnVy
+[00:07:11]: [Join Announcement] EternaLEnVy
+[00:07:39]: [Leave Announcement] EternaLEnVy
+[00:12:27]: [Join Announcement] EternaLEnVy
+[00:13:23]: [Join Announcement] happyflowerss
+[00:15:04]: [Join Announcement] Lodrian
+[00:57:02]: [Say] (KU_DfIX69OZ) happyflowerss: c_give
+[01:01:37]: [Say] (KU_DfIX651p) Lodrian: 啊 语音拉一下我再
+[01:06:38]: [Say] (KU_DfIX651p) Lodrian: 狗来了吗
+[01:06:58]: [Say] (KU_DfIX69OZ) happyflowerss: 你还在里面啊
+[01:07:02]: [Say] (KU_DfIX69OZ) happyflowerss: 语音
+[01:12:42]: [Leave Announcement] happyflowerss
+[01:18:44]: [Join Announcement] happyflowerss
+[01:18:50]: [Say] (KU_DfIX651p) Lodrian: 偶对
+[01:19:01]: [Say] (KU_DfIX651p) Lodrian: 钥匙是不是
+[01:19:11]: [Say] (KU_DfIX651p) Lodrian: 回档了
+[01:19:30]: [Say] (KU_DfIX651p) Lodrian: 彩灯在树上
+[01:22:14]: [Say] (KU_DfIX651p) Lodrian: 要再找一次钥匙吗
+[01:22:23]: [Say] (KU_DfIX651p) Lodrian: hao
+[01:29:10]: [Say] (KU_DfIX651p) Lodrian: 晚了
+[01:29:15]: [Say] (KU_DfIX651p) Lodrian: o
+[01:29:20]: [Say] (KU_DfIX651p) Lodrian: 找到了
+[01:29:42]: [Say] (KU_DfIX651p) Lodrian: 明天白天
+[01:30:06]: [Leave Announcement] happyflowerss
+[01:30:56]: [Say] (KU_DfIX651p) Lodrian: 穿木甲比较妥
+[01:31:52]: [Say] (KU_DfIX651p) Lodrian: emmm 怎么看等级_(:з)∠)_
+[01:32:37]: [Say] (KU_DfIX651p) Lodrian: eee
+[01:32:44]: [Say] (KU_DfIX651p) Lodrian: 这附近_(:з)∠)_
+[01:34:08]: [Say] (KU_DfIX651p) Lodrian: youdian
+[01:34:10]: [Say] (KU_DfIX651p) Lodrian: ka
+[01:37:37]: [Leave Announcement] EternaLEnVy
+[01:40:45]: [Join Announcement] EternaLEnVy
+[01:45:51]: [Say] (KU_DfIX651p) Lodrian: 没剑了
+[01:48:17]: [Death Announcement] EternaLEnVy was killed by Klaus. She became a spooky ghost!
+[01:48:25]: [Resurrect Announcement] EternaLEnVy was resurrected by WX79
+Yamche.
+[01:50:37]: [Death Announcement] Lodrian was killed by Klaus. She became a spooky ghost!
+[01:50:48]: [Say] (KU_DfIX651p) Lodrian: 嗷
+[01:50:57]: [Say] (KU_DfIX651p) Lodrian: wo hui qu ma
+[01:50:58]: [Resurrect Announcement] Lodrian was resurrected by EternaLEnVy.
+[01:51:28]: [Death Announcement] EternaLEnVy was killed by Klaus. She became a spooky ghost!
+[01:51:56]: [Resurrect Announcement] EternaLEnVy was resurrected by Puppy Princess Crown.
+[01:52:24]: [Death Announcement] Lodrian was killed by Klaus. She became a spooky ghost!
+[01:52:26]: [Say] (KU_DfIX651p) Lodrian: a
+[01:52:31]: [Say] (KU_DfIX651p) Lodrian: 我错哦了
+[01:52:42]: [Say] (KU_DfIX651p) Lodrian: 我 回去复活吧
+[01:52:50]: [Leave Announcement] EternaLEnVy
+[01:52:58]: [Resurrect Announcement] Lodrian was resurrected by Meat Effigy.
+[01:53:58]: [Death Announcement] Lodrian was killed by Darkness. She became a spooky ghost!
+[01:55:00]: [Resurrect Announcement] Lodrian was resurrected by Touch Stone.
+[01:55:12]: [Death Announcement] Lodrian was killed by Darkness. She became a spooky ghost!
+[01:55:59]: [Leave Announcement] Lodrian
+[01:57:06]: [Join Announcement] EternaLEnVy
+[02:00:59]: [Skin Announcement] EternaLEnVy mysterybox_ice_4
+[02:03:46]: [Join Announcement] Lodrian
+[02:04:29]: [Say] (KU_DfIX651p) Lodrian: 我飘回去
+[02:05:10]: [Resurrect Announcement] Lodrian was resurrected by EternaLEnVy.
+[02:06:25]: [Say] (KU_DfIX651p) Lodrian: 这回多！
+[02:06:58]: [Join Announcement] happyflowerss
+[02:24:36]: [Say] (KU_DfIX651p) Lodrian: 工作台可以调燃料吗
+[02:24:46]: [Say] (KU_DfIX651p) Lodrian: 阔以
+[02:25:04]: [Say] (KU_DfIX651p) Lodrian: 卧槽
+[02:25:10]: [Say] (KU_DfIX651p) Lodrian: 有木头吗！
+[02:25:14]: [Say] (KU_DfIX651p) Lodrian: 来一发！
+[02:25:35]: [Say] (KU_DfIX651p) Lodrian: 卧槽 开挂的幸福
+[02:25:42]: [Leave Announcement] Lodrian
+[02:27:46]: [Join Announcement] Lodrian
+[02:27:56]: [Say] (KU_DfIX651p) Lodrian: 心态崩了
+[02:29:44]: [Say] (KU_DfIX651p) Lodrian: 欸？只能储存了
+[02:43:46]: [Death Announcement] Lodrian was killed by Dragonfly. She became a spooky ghost!
+[02:44:31]: [Resurrect Announcement] Lodrian was resurrected by happyflowerss.
+[02:45:39]: [Say] (KU_DfIX651p) Lodrian: 700
+[02:51:59]: [Say] (KU_DfIX651p) Lodrian: wow
+[02:52:07]: [Say] (KU_DfIX651p) Lodrian: 这个眼球伞好安逸
+[02:57:18]: [Say] (KU_DfIX651p) Lodrian: 然后他们出来了_(:з)∠)_
+[03:06:03]: [Say] (KU_DfIX651p) Lodrian: 哈哈哈哈哈
+[03:09:52]: [Leave Announcement] EternaLEnVy
+[03:11:51]: [Say] (KU_DfIX651p) Lodrian: haiyou
+[03:12:27]: [Join Announcement] EternaLEnVy
+[03:25:34]: [Say] (KU_DfIX651p) Lodrian: 哈哈哈哈哈哈
+[03:25:40]: [Say] (KU_DfIX651p) Lodrian: 你这个头
+[03:25:57]: [Say] (KU_DfIX651p) Lodrian: emmm 我比较可爱
+[03:26:13]: [Say] (KU_DfIX651p) Lodrian: 我们还会给你行礼
+[03:28:24]: [Say] (KU_DfIX651p) Lodrian: 豁 食人花
+[03:29:33]: [Say] (KU_DfIX651p) Lodrian: 女王
+[03:31:54]: [Say] (KU_DfIX651p) Lodrian: ni
+[03:33:39]: [Say] (KU_DfIX651p) Lodrian: 维尼你的
+[03:33:46]: [Say] (KU_DfIX651p) Lodrian: 叫声
+[03:34:01]: [Say] (KU_DfIX651p) Lodrian: 太逗了
+[03:36:40]: [Say] (KU_DfIX651p) Lodrian: 不怕 还多着呢
+[03:41:44]: [Leave Announcement] EternaLEnVy
+[03:42:20]: [Say] (KU_DfIX651p) Lodrian: 摸鱼看了个贾乃亮的声明
+[03:42:53]: [Say] (KU_DfIX651p) Lodrian: 看起来是....经典套路
+[03:43:04]: [Say] (KU_DfIX651p) Lodrian: 当然是原谅她啊
+[03:44:41]: [Say] (KU_DfIX651p) Lodrian: 夭寿了 狗来了
+[03:44:49]: [Say] (KU_DfIX651p) Lodrian: meishi
+[03:44:53]: [Say] (KU_DfIX651p) Lodrian: 打完了
+[03:44:56]: [Leave Announcement] EternaLEnVy
+[03:45:53]: [Say] (KU_DfIX651p) Lodrian: dawanle
+[03:46:01]: [Leave Announcement] EternaLEnVy
+[03:48:07]: [Skin Announcement] happyflowerss mysterybox_ice_4
+[03:48:59]: [Leave Announcement] EternaLEnVy
+[03:51:12]: [Leave Announcement] EternaLEnVy
+[03:52:35]: [Say] (KU_DfIX651p) Lodrian: 把他的花拿走
+[03:53:09]: [Leave Announcement] EternaLEnVy
+[03:53:11]: [Say] (KU_DfIX651p) Lodrian: 模型卡掉了估计
+[03:54:47]: [Say] (KU_DfIX651p) Lodrian: 维尼叫的
+[03:54:52]: [Say] (KU_DfIX651p) Lodrian: 太惨了
+[03:55:36]: [Join Announcement] EternaLEnVy
+[03:55:41]: [Say] (KU_DfIX651p) Lodrian: 不造
+[03:56:26]: [Say] (KU_DfIX651p) Lodrian: hao
+[03:57:04]: [Say] (KU_DfIX651p) Lodrian: 哈哈哈哈哈哈
+[03:59:05]: [Say] (KU_DfIX651p) Lodrian: 咦
+[03:59:12]: [Say] (KU_DfIX651p) Lodrian: 小钢杨
+[04:00:13]: [Say] (KU_DfIX651p) Lodrian: 欸 我的帽子不能夜视了
+[04:00:39]: [Say] (KU_DfIX651p) Lodrian: ao
+[04:00:43]: [Say] (KU_DfIX651p) Lodrian: shide！
+[04:00:55]: [Say] (KU_DfIX651p) Lodrian: 小宇心态崩了
+[04:01:37]: [Say] (KU_DfIX651p) Lodrian: 忘记他的耐久了
+[04:05:31]: [Say] (KU_DfIX651p) Lodrian: 刷蛤蟆的地方
+[04:07:09]: [Death Announcement] happyflowerss was killed by Nightmarebeak. He became a spooky ghost!
+[04:07:45]: [Leave Announcement] happyflowerss
+[04:10:37]: [Join Announcement] happyflowerss
+[04:10:53]: [Resurrect Announcement] happyflowerss was resurrected by EternaLEnVy.
+[04:14:47]: [Say] (KU_DfIX651p) Lodrian: shi
+[04:14:51]: [Say] (KU_DfIX651p) Lodrian: hai mei
+[04:18:45]: [Say] (KU_DfIX651p) Lodrian: 哇 这个抱脸怪一样的是什么
+[04:21:35]: [Say] (KU_DfIX651p) Lodrian: zhege
+[04:24:47]: [Say] (KU_DfIX651p) Lodrian: 惊了 这边有你那个龙
+[04:30:56]: [Say] (KU_DfIX651p) Lodrian: 啊 心情
+[04:33:11]: [Say] (KU_DfIX651p) Lodrian: shi
+[04:36:30]: [Leave Announcement] EternaLEnVy
+[04:36:40]: [Leave Announcement] Lodrian
+[04:36:40]: [Leave Announcement] happyflowerss
+[12:37:35]: [Join Announcement] EternaLEnVy
+[13:30:40]: [Leave Announcement] EternaLEnVy

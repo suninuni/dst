@@ -13,10 +13,10 @@ KLEI     1 return {
         name="地洞走起 local",
         online_mode=true,
         password="321123.",
-        privacy_type=1,
+        privacy_type=0,
         pvp=false 
       },
-      session_id="583320844D6F6269",
+      session_id="CE872FB8884CCAA3",
       world={
         options={
           {

@@ -190,10 +190,6 @@ return {
   ["workshop-462372013"]={ configuration_options={  }, enabled=true },
   ["workshop-466732225"]={ configuration_options={  }, enabled=true },
   ["workshop-501385076"]={ configuration_options={  }, enabled=true },
-  ["workshop-646227245"]={
-    configuration_options={ hunger=1, item=1, language=2, level=5, speed=1, type=1 },
-    enabled=true 
-  },
   ["workshop-647370020"]={
     configuration_options={
       katanasbasedamage=50,
